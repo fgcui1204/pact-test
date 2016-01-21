@@ -1,0 +1,22 @@
+source 'https://rubygems.org'
+
+group :development, :test do
+  gem 'rspec'
+  gem 'pact'
+  gem 'pact_broker-client'
+  gem 'pry'
+  gem 'httparty'
+  gem 'rake'
+
+  gem 'awesome_print', '~> 1.1'
+  gem 'find_a_port', '~> 1.0.1'
+
+  gem 'json', '>= 0'
+  gem 'pact-mock_service', '~> 0.7'
+  gem 'pact-support', '~> 0.5'
+  gem 'rack-test', '~> 0.6.2'
+  gem 'randexp', '~> 0.1.7'
+  gem 'term-ansicolor', '~> 1.0'
+  gem 'thor', '>= 0'
+  gem 'webrick', '>= 0'
+end

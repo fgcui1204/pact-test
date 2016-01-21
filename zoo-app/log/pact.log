@@ -1,0 +1,61 @@
+# Logfile created on 2016-01-20 13:47:48 +0800 by logger.rb/44203
+I, [2016-01-20T13:47:48.548549 #9214]  INFO -- : Starting app Animal Service #<Pact::MockService::App:0x007fa86b159288> on port 1234...
+I, [2016-01-20T13:47:48.871820 #9214]  INFO -- : Started on port 1234
+I, [2016-01-20T13:47:48.872359 #9214]  INFO -- : Clearing all expectations
+I, [2016-01-20T13:47:48.879829 #9214]  INFO -- : Verifying interactions for AnimalServiceClient get panda return a panda
+D, [2016-01-20T13:47:48.886641 #9214] DEBUG -- : Supposed to be stopping
+I, [2016-01-20T13:52:14.173995 #10065]  INFO -- : Starting app Animal Service #<Pact::MockService::App:0x007fed0f36d298> on port 1234...
+I, [2016-01-20T13:52:14.496714 #10065]  INFO -- : Started on port 1234
+I, [2016-01-20T13:52:14.497112 #10065]  INFO -- : Clearing all expectations
+I, [2016-01-20T13:52:14.506338 #10065]  INFO -- : Verifying interactions for AnimalServiceClient get panda return a panda
+D, [2016-01-20T13:52:14.512609 #10065] DEBUG -- : Supposed to be stopping
+I, [2016-01-20T13:53:52.109316 #10467]  INFO -- : Starting app Animal Service #<Pact::MockService::App:0x007feb35399248> on port 1234...
+I, [2016-01-20T13:53:52.220530 #10467]  INFO -- : Started on port 1234
+I, [2016-01-20T13:53:52.220914 #10467]  INFO -- : Clearing all expectations
+I, [2016-01-20T13:53:52.230388 #10467]  INFO -- : Verifying interactions for AnimalServiceClient get panda return a panda
+D, [2016-01-20T13:53:52.235935 #10467] DEBUG -- : Supposed to be stopping
+I, [2016-01-20T15:57:56.202374 #22142]  INFO -- : Starting app Animal Service #<Pact::MockService::App:0x007ffd7591d9d8> on port 1234...
+I, [2016-01-20T15:57:56.630101 #22142]  INFO -- : Started on port 1234
+I, [2016-01-20T15:57:56.630541 #22142]  INFO -- : Clearing all expectations
+I, [2016-01-20T15:57:56.636533 #22142]  INFO -- : Verifying interactions for AnimalServiceClient get panda return a panda
+D, [2016-01-20T15:57:56.642214 #22142] DEBUG -- : Supposed to be stopping
+I, [2016-01-20T15:58:40.724785 #22539]  INFO -- : Starting app Animal Service #<Pact::MockService::App:0x007fef33291948> on port 1234...
+I, [2016-01-20T15:58:40.840803 #22539]  INFO -- : Started on port 1234
+I, [2016-01-20T15:58:40.841214 #22539]  INFO -- : Clearing all expectations
+I, [2016-01-20T15:58:40.854265 #22539]  INFO -- : Verifying interactions for AnimalServiceClient get panda return a panda
+D, [2016-01-20T15:58:40.860566 #22539] DEBUG -- : Supposed to be stopping
+I, [2016-01-20T15:58:53.141822 #22931]  INFO -- : Starting app Animal Service #<Pact::MockService::App:0x007f8c7db89ca8> on port 1234...
+I, [2016-01-20T15:58:53.254112 #22931]  INFO -- : Started on port 1234
+I, [2016-01-20T15:58:53.254537 #22931]  INFO -- : Clearing all expectations
+I, [2016-01-20T15:58:53.266190 #22931]  INFO -- : Verifying interactions for AnimalServiceClient get panda return a panda
+D, [2016-01-20T15:58:53.271681 #22931] DEBUG -- : Supposed to be stopping
+I, [2016-01-20T16:06:38.470997 #23375]  INFO -- : Starting app Animal Service #<Pact::MockService::App:0x007f95559a99c0> on port 1234...
+I, [2016-01-20T16:06:38.791415 #23375]  INFO -- : Started on port 1234
+I, [2016-01-20T16:06:38.791848 #23375]  INFO -- : Clearing all expectations
+I, [2016-01-20T16:06:38.797087 #23375]  INFO -- : Verifying interactions for AnimalServiceClient get panda return a panda
+D, [2016-01-20T16:06:38.802536 #23375] DEBUG -- : Supposed to be stopping
+I, [2016-01-20T16:08:53.864459 #23778]  INFO -- : Starting app Animal Service #<Pact::MockService::App:0x007f9e010a9c58> on port 1234...
+I, [2016-01-20T16:08:54.186020 #23778]  INFO -- : Started on port 1234
+I, [2016-01-20T16:08:54.186448 #23778]  INFO -- : Clearing all expectations
+I, [2016-01-20T16:08:54.196736 #23778]  INFO -- : Verifying interactions for AnimalServiceClient get panda return a panda
+D, [2016-01-20T16:08:54.202090 #23778] DEBUG -- : Supposed to be stopping
+I, [2016-01-20T16:14:40.539519 #24201]  INFO -- : Starting app Animal Service #<Pact::MockService::App:0x007fe99a3799d0> on port 1234...
+I, [2016-01-20T16:14:40.861323 #24201]  INFO -- : Started on port 1234
+I, [2016-01-20T16:14:40.861811 #24201]  INFO -- : Clearing all expectations
+I, [2016-01-20T16:14:40.870464 #24201]  INFO -- : Verifying interactions for AnimalServiceClient get panda return a panda
+D, [2016-01-20T16:14:40.875595 #24201] DEBUG -- : Supposed to be stopping
+I, [2016-01-20T17:44:43.841703 #54594]  INFO -- : Starting app Animal Service #<Pact::MockService::App:0x007f844abad940> on port 1234...
+I, [2016-01-20T17:44:44.163425 #54594]  INFO -- : Started on port 1234
+I, [2016-01-20T17:44:44.163891 #54594]  INFO -- : Clearing all expectations
+I, [2016-01-20T17:44:44.175222 #54594]  INFO -- : Verifying interactions for AnimalServiceClient get panda return a panda
+D, [2016-01-20T17:44:44.180934 #54594] DEBUG -- : Supposed to be stopping
+I, [2016-01-20T17:45:01.704442 #54986]  INFO -- : Starting app Animal Service #<Pact::MockService::App:0x007f8dfc368e90> on port 1234...
+I, [2016-01-20T17:45:01.820546 #54986]  INFO -- : Started on port 1234
+I, [2016-01-20T17:45:01.820949 #54986]  INFO -- : Clearing all expectations
+I, [2016-01-20T17:45:01.829872 #54986]  INFO -- : Verifying interactions for AnimalServiceClient get panda return a panda
+D, [2016-01-20T17:45:01.834999 #54986] DEBUG -- : Supposed to be stopping
+I, [2016-01-20T17:59:53.746573 #59808]  INFO -- : Starting app Animal Service #<Pact::MockService::App:0x007fdd4b3cd8d8> on port 1234...
+I, [2016-01-20T17:59:54.067910 #59808]  INFO -- : Started on port 1234
+I, [2016-01-20T17:59:54.068378 #59808]  INFO -- : Clearing all expectations
+I, [2016-01-20T17:59:54.078356 #59808]  INFO -- : Verifying interactions for AnimalServiceClient get panda return a panda
+D, [2016-01-20T17:59:54.084053 #59808] DEBUG -- : Supposed to be stopping

@@ -1,0 +1,47 @@
+I, [2016-01-20T17:59:54.071101 #59808]  INFO -- : Cleared interactions before example "AnimalServiceClient get panda return a panda"
+I, [2016-01-20T17:59:54.074100 #59808]  INFO -- : Registered expected interaction GET /panda
+D, [2016-01-20T17:59:54.074194 #59808] DEBUG -- : {
+  "description": "a request for an panda",
+  "provider_state": "an panda exists",
+  "request": {
+    "method": "get",
+    "path": "/panda",
+    "query": ""
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "body": {
+      "name": "Hello"
+    }
+  }
+}
+I, [2016-01-20T17:59:54.076899 #59808]  INFO -- : Received request GET /panda
+D, [2016-01-20T17:59:54.076974 #59808] DEBUG -- : {
+  "path": "/panda",
+  "query": "",
+  "method": "get",
+  "headers": {
+    "Accept-Encoding": "gzip;q=1.0,deflate;q=0.6,identity;q=0.3",
+    "Accept": "*/*",
+    "User-Agent": "Ruby",
+    "Connection": "close",
+    "Host": "localhost:1234",
+    "Version": "HTTP/1.1"
+  }
+}
+I, [2016-01-20T17:59:54.077089 #59808]  INFO -- : Found matching response for GET /panda
+D, [2016-01-20T17:59:54.077136 #59808] DEBUG -- : {
+  "status": 200,
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Hello"
+  }
+}
+I, [2016-01-20T17:59:54.080586 #59808]  INFO -- : Verifying - interactions matched for example "AnimalServiceClient get panda return a panda"
+I, [2016-01-20T17:59:54.083288 #59808]  INFO -- : Writing pact with details {:consumer=>{:name=>"Zoo App"}, :provider=>{:name=>"Animal Service"}, :pactfile_write_mode=>"overwrite", :pact_dir=>"/Users/fgcui/tmp/pactTest/zoo-app/spec/pacts"}
+I, [2016-01-20T17:59:54.083350 #59808]  INFO -- : Writing pact for Animal Service to /Users/fgcui/tmp/pactTest/zoo-app/spec/pacts/zoo_app-animal_service.json
